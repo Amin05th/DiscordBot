@@ -4,6 +4,7 @@
   "description": "",
   "main": "script.js",
   "scripts": {
+    "installModules": "npm install",
     "start": "node script.js"
   },
   "keywords": [],
